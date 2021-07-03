@@ -1,4 +1,5 @@
 # JDH-8
+(You are currently viewing Kylogias's fork)
 An fully custom 8-bit minicomputer with a unique architecture and the express goal of playing PONG.
 
 ![PONG SCREENSHOT](images/PONG.png)
